@@ -21,16 +21,12 @@ If you find a bug:
   2. If the bug is not there, create a [new issue](https://github.com/JuanPotato/Brickfy/issues/new) with clear steps on how to reproduce it.
 
 ### Quickstart
-```shell
-$ pip install brickfy
-```
-or install from source
+install from source
 ```shell
 $ git clone https://github.com/JuanPotato/Brickfy.git
 $ cd Brickfy
 $ python setup.py install
 ```
-Wait! I don't know what any of this means? Use pip then, or if you really want to install from source [have some help.](#installation)
 
 ### Usage
 ```
@@ -57,12 +53,6 @@ $ brickfy --palette all image.jpg
 ```
 There is another one palette, mono, with only 2 colors (black and white...). It's just for test and fun...
 
-
-### Troubleshooting
- * [Mac](http://pillow.readthedocs.org/en/3.0.x/installation.html#os-x-installation)
- * [Linux](http://pillow.readthedocs.org/en/3.0.x/installation.html#linux-installation)
- * [Windows](http://pillow.readthedocs.org/en/3.0.x/installation.html#windows-installation)
-
 ### Installation
 1. Download and install all requirements
  * python from the [official python website](https://www.python.org/)
@@ -73,6 +63,3 @@ There is another one palette, mono, with only 2 colors (black and white...). It'
 4. Run `python setup.py install` while in the project folder
 5. You can now use Brickfy anywhere, see [usage](#usage) for more help
 
-### Forks
-
-* JavaScript: [Brickfy](https://github.com/Wildhoney/Brickfy)
