@@ -17,8 +17,8 @@ Brickfy is a python program that takes a static image or gif and makes it so tha
 
 ### Bugs
 If you find a bug:
-  1. Check in the [open issues](https://github.com/JuanPotato/Brickfy/issues) if the bug already exists.
-  2. If the bug is not there, create a [new issue](https://github.com/JuanPotato/Brickfy/issues/new) with clear steps on how to reproduce it.
+  1. Check in the [open issues](https://github.com/ReneSlowenski/brickify/issues) if the bug already exists.
+  2. If the bug is not there, create a [new issue](https://github.com/ReneSlowenski/brickify/issues/new) with clear steps on how to reproduce it.
 
 ### Quickstart
 install from source
